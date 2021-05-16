@@ -1,4 +1,4 @@
-package com.ds_algo.practice;
+package com.ds_algo.practice.arrays;
 
 public class ReverseAnArray {
     int[] reverse(int[] arr){

@@ -1,5 +1,6 @@
-package com.ds_algo.practice;
+package com.ds_algo.practice.arrays;
 
+import com.ds_algo.practice.arrays.ReverseAnArray;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

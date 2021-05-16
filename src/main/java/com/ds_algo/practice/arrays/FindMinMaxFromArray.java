@@ -1,4 +1,4 @@
-package com.ds_algo.practice;
+package com.ds_algo.practice.arrays;
 /*
     Find the min and max from the array with least number of comparisons
  */
